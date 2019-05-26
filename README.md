@@ -4,7 +4,7 @@
 2. Sumber: http://www.depkes.go.id/resources/download/profil/
 3. Variabel: jumlah neonatal, jumlah kematian bayi, jumlah kematian balita, jumlah kematian anak balita, dan jumlah kematian ibu
 4. Jumlah data: 550 data
-5. Algoritma: K-Means dan Fuzzy C-Means
+5. Algoritma: Fuzzy C-Means
 6. Index validasi: DBI (Davies Bouldin Index) & SI (Silhouette Index)
 7. Jumlah K Uji Coba: 2, 3, dan 4 Cluster
 8. Bahasa pemrograman: R
